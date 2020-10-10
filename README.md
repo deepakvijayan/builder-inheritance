@@ -1,5 +1,5 @@
 # builder-inheritance
-A java builder with inheritance
+A java builder pattern with inheritance
 
 
 ```java
